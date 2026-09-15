@@ -1,1 +1,1 @@
-print("Hello World Ryan Chan 4 years")
+print("Hello World Ryan Chan")
